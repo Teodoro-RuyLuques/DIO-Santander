@@ -5,4 +5,4 @@
 ## Objetivo
  Construir uma landing page do zero e aprender alguns comandos para estilização e distribuir espaço entre os itens de um contêiner e alinhar os itens dentro do contêiner. criação do layout com flexbox responsivo que se ajusta automaticamente de diferentes tamanhos de tela e resoluções. <br>
 
-Link: https://dio-santander.vercel.app/
+link: https://dio-santander.vercel.app/

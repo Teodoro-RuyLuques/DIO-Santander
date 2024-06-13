@@ -1,4 +1,4 @@
-# Projeto integrador do bootcamp da dio, Landing Page :page_with_curl: <br>
+# Projeto integrador do bootcamp da dio, Landing Page :page_with_curl::snowflake:<br>
 ## Tecnologias
 - HTML: Utilização para marcação de texto.
 - CSS Flexbox: Estilização e alinhamento de itens.
